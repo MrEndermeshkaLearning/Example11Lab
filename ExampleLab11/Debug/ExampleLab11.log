@@ -1,0 +1,4 @@
+﻿  MainLoop.cpp
+C:\Users\MrEndermeshka\source\repos\ExampleLab11\ExampleLab11\MainLoop.cpp(9,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\MrEndermeshka\source\repos\ExampleLab11\ExampleLab11\MainLoop.cpp(112,32): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  ExampleLab11.vcxproj -> C:\Users\MrEndermeshka\source\repos\ExampleLab11\Debug\ExampleLab11.exe
