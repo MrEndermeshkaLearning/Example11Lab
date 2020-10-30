@@ -33,7 +33,7 @@ int main() {
 	int a=(int)sqrt17, b= (int)sqrt82;
 	double arr[NUM_MAX_ARRAY_VALUE];
 	for (int i = 0; i < NUM_MAX_ARRAY_VALUE; i++) {
-		arr[i] = (rand() % (a-b) + a)/100;
+		arr[i] = (rand() % (a-b) + a)/(double)100;
 		printf("arr[%d]=%lf\n", i, arr[i]);
 	}
 	//task2
